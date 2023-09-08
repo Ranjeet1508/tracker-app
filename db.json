@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Ranjeet gautam",
+      "email": "abc@gmail.com",
+      "Password": "12345"
+    },
+    {
+      "id": 2,
+      "name": "sdkjbjksg",
+      "email": "def@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": 3,
+      "name": "abc",
+      "email": "abc@gmail.com",
+      "password": "122345"
+    },
+    {
+      "id": 4,
+      "name": "def",
+      "email": "eve.holt@reqres.in",
+      "password": "1235"
+    }
+  ]
+}
